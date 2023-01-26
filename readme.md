@@ -11,4 +11,5 @@ Configured in the following locations, in increasing order of priority -
 * `$XDG_CONFIG_HOME/speedrun/speedrun.conf` for user
 * `$XDG_CONFIG_HOME/speedrun/xyz.conf` for an application titled xyz
 * `./.speedrun.conf` for local directory
+
 `$XDG_CONFIG_HOME` defaults to `~/.config` if not set
